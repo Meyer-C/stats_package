@@ -1,2 +1,3 @@
 # Stats Package
-A handful of useful statistics tools written from scratch.
+Useful statistical tools written from scratch.
+

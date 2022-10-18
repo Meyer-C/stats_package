@@ -1,3 +1,3 @@
 # Stats Package
-Useful statistical tools written from scratch.
+Useful statistics tools created from statistical formulas from class.
 
